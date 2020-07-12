@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1003569791670",
+    "firebase_url": "https://tinvietsoft-ebd37.firebaseio.com",
+    "project_id": "tinvietsoft-ebd37",
+    "storage_bucket": "tinvietsoft-ebd37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003569791670:android:0db1401881dbfaa06d9c17",
+        "android_client_info": {
+          "package_name": "com.tinvietsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003569791670-m5n1silu5r7b257tm9o6b0i8rokdkoki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tinvietsoft",
+            "certificate_hash": "b32c1dec1982e79ecaf2289f0749f20dc84938c5"
+          }
+        },
+        {
+          "client_id": "1003569791670-4esuvm8cc9r9j8kva4td6obaabqakh0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn0dJWzbxEfQwNq3e6N3fRQ4FeKOTquz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003569791670-4esuvm8cc9r9j8kva4td6obaabqakh0d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003569791670-jatb176e7u1l4g6gkb456lsjushtl4jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tinvietsoft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
